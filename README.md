@@ -5,6 +5,11 @@
 The HITS (Hyperlink-Induced Topic Search) algorithm is a link analysis algorithm used to rank web pages. It identifies authority and hub pages 
 in a network of web pages based on the structure of the links between them.
 
+
+
+
+
+
 ### Procedure:
 1. ***Initialization:***
     <p>    a) Start with an initial set of authority and hub scores for each page.
